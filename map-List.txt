@@ -1,0 +1,46 @@
+5
+mine1-0.dig
+file-map/mine1-0.dig
+data-holder/mine1-0.dig
+7
+2
+8
+8
+2 3
+6 6
+mine1-1.dig
+file-map/mine1-1.dig
+data-holder/mine1-1.dig
+9
+1
+8
+9
+2 3
+6 6
+mine2-1.dig
+file-map/mine2-1.dig
+data-holder/mine2-1.dig
+11
+2
+8
+9
+2 3
+6 6
+mine2-2.dig
+file-map/mine2-2.dig
+data-holder/mine2-2.dig
+13
+1
+8
+9
+2 3
+6 6
+mine2-3.dig
+file-map/mine2-3.dig
+data-holder/mine2-3.dig
+14
+1
+8
+9
+2 3
+5 4
