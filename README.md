@@ -1,4 +1,4 @@
-# MinerGuild-Pathfinder-Management-System
+# MinersGuild-Pathfinder-Management-System
 # Project Overview
 This project, titled Miner's Guild Pathfinder Management System, was developed as part of my first semester coursework for the "Algorithm and Programming" class. The project uses the C programming language to create an application that allows the Miner's Guild to manage the mining maps, find the shortest paths, and determine the number of possible routes to mine safely. The program involves handling multiple map files, processing map data, and solving pathfinding problems through recursive methods.
 
